@@ -1,1 +1,1 @@
-# glitch.player
+# mini-player
